@@ -1,6 +1,6 @@
 # Hi, I'm Elisha Mustapha 👋
 
-### Mid-Level Software Developer | PHP & Laravel
+### Software Engineer | PHP & Laravel
 
 I’m a software developer focused on building reliable, maintainable web applications and backend systems. I enjoy turning ideas and requirements into practical solutions, improving existing codebases, and collaborating with teams through code reviews and pull requests.
 
